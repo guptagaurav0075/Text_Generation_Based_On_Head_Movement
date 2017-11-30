@@ -2,7 +2,7 @@
 
 Generate text-letters on the console with the help of head movements.
 
-##Description:
+## Description:
 
 Before the program maps head movements to text entry, it first simulates the average head positions for a user. 
 It is crucial to simulate this at the beginning of the execution of program since the head movement - [left| right | up | down] would be different for distinct users.
@@ -48,7 +48,7 @@ After the selection is made with the help of head movement, user is required to 
 Following command is required to be passed in order to execute the program.
 >python Directory_Path_to_Text_Generation_Based_On_Head_Movement/GenerateTextFromHeadMovement.py
 
-##Dependencies:
+## Dependencies:
 1. python 2.7
 2. openCV 3.0 library
 3. numpy library
